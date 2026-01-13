@@ -9,7 +9,9 @@ In the wake of natural or man-made disasters, communication often breaks down, l
 It allows victims to broadcast SOS signals with geolocation, enables volunteers to register and find tasks, and provides authorities with a real-time dashboard to manage resources and deployment.
 
 **✨ Key Features**
+
 For Victims
+
 **One-Click SOS:** Immediate distress signal sending user's live GPS coordinates to the nearest rescue center.
 **Offline Support:** SMS-based reporting for areas with poor internet connectivity (using Twilio/GSM modules).
 **Status Updates:** real-time tracking of rescue team arrival.
