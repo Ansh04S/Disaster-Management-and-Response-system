@@ -53,3 +53,13 @@ For Victims
 **Mapping:** Leaflet.js / Google Maps API
 
 **Notifications:** Twilio (SMS), Firebase Cloud Messaging (FCM)
+
+---
+
+**📄 License**
+Distributed under the MIT License. See LICENSE for more information.
+
+---
+
+**📞 Contact**
+Project Lead: [Ansh Sureka] Email: [anshsureka04@gmail.com] Project Link: https://github.com/your-username/disaster-management-system
